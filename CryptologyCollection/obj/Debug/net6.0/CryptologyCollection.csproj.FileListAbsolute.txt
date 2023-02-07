@@ -1,0 +1,15 @@
+C:\Users\Delicious\source\repos\CryptologyCollection\CryptologyCollection\bin\Debug\net6.0\CryptologyCollection.exe
+C:\Users\Delicious\source\repos\CryptologyCollection\CryptologyCollection\bin\Debug\net6.0\CryptologyCollection.deps.json
+C:\Users\Delicious\source\repos\CryptologyCollection\CryptologyCollection\bin\Debug\net6.0\CryptologyCollection.runtimeconfig.json
+C:\Users\Delicious\source\repos\CryptologyCollection\CryptologyCollection\bin\Debug\net6.0\CryptologyCollection.dll
+C:\Users\Delicious\source\repos\CryptologyCollection\CryptologyCollection\bin\Debug\net6.0\CryptologyCollection.pdb
+C:\Users\Delicious\source\repos\CryptologyCollection\CryptologyCollection\obj\Debug\net6.0\CryptologyCollection.csproj.AssemblyReference.cache
+C:\Users\Delicious\source\repos\CryptologyCollection\CryptologyCollection\obj\Debug\net6.0\CryptologyCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delicious\source\repos\CryptologyCollection\CryptologyCollection\obj\Debug\net6.0\CryptologyCollection.AssemblyInfoInputs.cache
+C:\Users\Delicious\source\repos\CryptologyCollection\CryptologyCollection\obj\Debug\net6.0\CryptologyCollection.AssemblyInfo.cs
+C:\Users\Delicious\source\repos\CryptologyCollection\CryptologyCollection\obj\Debug\net6.0\CryptologyCollection.csproj.CoreCompileInputs.cache
+C:\Users\Delicious\source\repos\CryptologyCollection\CryptologyCollection\obj\Debug\net6.0\CryptologyCollection.dll
+C:\Users\Delicious\source\repos\CryptologyCollection\CryptologyCollection\obj\Debug\net6.0\refint\CryptologyCollection.dll
+C:\Users\Delicious\source\repos\CryptologyCollection\CryptologyCollection\obj\Debug\net6.0\CryptologyCollection.pdb
+C:\Users\Delicious\source\repos\CryptologyCollection\CryptologyCollection\obj\Debug\net6.0\CryptologyCollection.genruntimeconfig.cache
+C:\Users\Delicious\source\repos\CryptologyCollection\CryptologyCollection\obj\Debug\net6.0\ref\CryptologyCollection.dll
