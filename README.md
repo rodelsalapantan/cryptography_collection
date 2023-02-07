@@ -11,3 +11,8 @@
 - Polybius Cipher  
 - Bifid Cipher  
 ---------------------------
+
+Technology Stack:
+```sh
+C#, MySQL
+```
