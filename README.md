@@ -12,7 +12,7 @@
 - Bifid Cipher  
 ---------------------------
 
-Technology Stack:
+### Technology:
 ```sh
 C#, MySQL
 ```
