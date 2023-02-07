@@ -13,7 +13,7 @@
 - Bifid Cipher  
 ---------------------------
 
-### Technology:
+### Technologies:
 ```sh
 C#, MySQL
 ```
